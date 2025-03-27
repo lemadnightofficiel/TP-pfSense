@@ -1,0 +1,1 @@
+Ce projet comprend l'ensemble de l'installation de pfSense sur une VM Ubuntu sur VirtualBox ainsi que la configuration des interfaces en plus de l'ajout de quelques règles de base sur le dashboard Web.
